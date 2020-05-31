@@ -29,11 +29,19 @@ public class Main{
 		z = 2*x + (y-2)*5;
 		System.out.println(z);
 	
-
-	Main2.avArifm();// Task 5:algorithm arithmetic average of two numbers
+		try  {
+	Task5.avArifm();// Task 5:algorithm arithmetic average of two numbers
 	
-	Main3.milkV();//Task 6: volume of milk in big barrels
+	Task6.milkV();//Task 6: volume of milk in big barrels
 	
+	Task7.rectangleS();//Task 7: S of rectangle
 	}
+		catch(Exception e) { 
+	         /* This block will only execute if any exception 
+	          * occurs in try block
+	          */
+	         System.out.println("Похоже вы ввели что-то не то");		
+		}
+}
 }
 
