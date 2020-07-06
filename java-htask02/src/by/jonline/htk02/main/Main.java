@@ -35,6 +35,8 @@ public class Main{
 	Task6.milkV();//Task 6: volume of milk in big barrels
 	
 	Task7.rectangleS();//Task 7: S of rectangle
+	Task10.sincos();//Task 10: (sin x+cos y)/(cos x - sin y)*tg xy
+	
 	}
 		catch(Exception e) { 
 	         /* This block will only execute if any exception 

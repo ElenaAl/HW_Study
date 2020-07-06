@@ -19,13 +19,6 @@ public class Task7 {
 				
 				System.out.println("Площадь прямоугольника, ширина которого в два раза меньше длины:" + s);
 				
-	//	}
-     //	catch(Exception e) { 
-	         /* This block will only execute if any exception 
-	          * occurs in try block
-	          */
-				 //	       System.out.println("Похоже вы ввели что-то не то");		
-				 //		}
 		}
 		
 
